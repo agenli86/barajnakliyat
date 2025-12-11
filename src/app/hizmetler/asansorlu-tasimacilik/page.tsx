@@ -57,10 +57,12 @@ export default function AsansorluTasimacilikPage() {
               <article className="bg-white rounded-xl shadow-lg overflow-hidden">
                 {/* Featured Image */}
                 <img
-                  src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=2070"
-                  alt="Asansörlü Taşımacılık"
-                  className="w-full h-96 object-cover"
-                />
+                  
+    src="/resimler/nakliyatadana.png"  // 👈 BU SATIR DEĞİŞTİ
+    alt="Asansörlü Taşımacılık"
+    className="w-full h-96 object-cover"
+/>
+              
 
                 <div className="p-8 lg:p-12">
                   {/* Content */}

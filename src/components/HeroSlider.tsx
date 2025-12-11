@@ -11,12 +11,12 @@ import 'swiper/css/effect-fade'
 
 const slides = [
   {
-    id: 1,
-    title: 'Güvenilir Ev Taşıma Hizmetleri',
-    subtitle: 'Eşyalarınız Bizimle Güvende',
-    description: 'Profesyonel ekibimiz ve modern araç filomuz ile evden eve nakliyat hizmetlerinde yanınızdayız.',
-    icon: FaHome,
-    image: 'https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=2070',
+   id: 1,
+    title: 'Güvenilir Ev Taşıma Hizmetleri',
+    subtitle: 'Eşyalarınız Bizimle Güvende',
+    description: 'Profesyonel ekibimiz ve modern araç filomuz ile evden eve nakliyat hizmetlerinde yanınızdayız.',
+    icon: FaHome,
+    image: '/resimler/nakliyatadana.png', // 👈 BU SATIR DEĞİŞTİ
   },
   {
     id: 2,
